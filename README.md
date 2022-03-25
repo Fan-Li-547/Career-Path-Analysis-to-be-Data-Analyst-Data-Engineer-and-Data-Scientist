@@ -21,17 +21,17 @@ This project extract job description data of three popular job titles -- Data An
 
 ## Table of Contents
 
-[1.Introduction](#sec_1)
+[1.Introduction]
 
-- [1.1 Project Objective](#sec_1.1)
-- [1.2 Target Audience](#sec_1.2)
-- [1.3 Project Assumption](#sec_1.3)
-- [1.4 Key Insights](#sec_1.4)
+- [1.1 Project Objective]
+- [1.2 Target Audience]
+- [1.3 Project Assumption]
+- [1.4 Key Insights]
 
-[2.Data Wrangling and Methodology](#sec_2)
+[2.Data Wrangling and Methodology]
 
-- [2.1 Data Cleaning](#sec_2.1)
-- [2.2 Dimensional Modeling Method](#sec_2.2)
+- [2.1 Data Cleaning]
+- [2.2 Dimensional Modeling Method]
 - [2.3 Data Extracting](#sec_2.3)
 - [2.4 Term Frequency Analysis](#sec_2.4)
 - [2.5 Documentary Frequency Analysis](#sec_2.5)
