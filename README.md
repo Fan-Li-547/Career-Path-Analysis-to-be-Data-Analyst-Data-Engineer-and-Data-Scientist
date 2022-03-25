@@ -21,31 +21,31 @@ This project extract job description data of three popular job titles -- Data An
 
 ## Table of Contents
 
-[1.Introduction]
+1.Introduction
 
-- [1.1 Project Objective]
-- [1.2 Target Audience]
-- [1.3 Project Assumption]
-- [1.4 Key Insights]
+- 1.1 Project Objective
+- 1.2 Target Audience
+- 1.3 Project Assumption
+- 1.4 Key Insights
 
-[2.Data Wrangling and Methodology]
+2.Data Wrangling and Methodology
 
-- [2.1 Data Cleaning]
-- [2.2 Dimensional Modeling Method]
-- [2.3 Data Extracting](#sec_2.3)
-- [2.4 Term Frequency Analysis](#sec_2.4)
-- [2.5 Documentary Frequency Analysis](#sec_2.5)
-- [2.6 Requirements & Getting Started](#sec_2.6)
+- 2.1 Data Cleaning
+- 2.2 Dimensional Modeling Method
+- 2.3 Data Extracting
+- 2.4 Term Frequency Analysis
+- 2.5 Documentary Frequency Analysis
+- 2.6 Requirements & Getting Started
 
-[3.Exploratory Data Analysis](#sec_3)
+3.Exploratory Data Analysis
 
-- [3.1 Required Skills for Data Analyst](#sec_3.1)
-- [3.2 Required Skills for Data Engineer](#sec_3.2)
-- [3.3 Required Skills for Data Scientistg](#sec_3.3)
-- [3.4 Carrier Path](#sec_3.4)
+- 3.1 Required Skills for Data Analyst
+- 3.2 Required Skills for Data Engineer
+- 3.3 Required Skills for Data Scientist
+- 3.4 Carrier Path
 
-[4.Conclusion](#sec_4)
+4.Conclusion
 
-[5.References](#sec_5)
+5.References
 
 
