@@ -11,7 +11,7 @@ This project is to extract, clean, explore and analyze job description data of t
 **Tools used**:
 - Data Extraction, Data Cleaning and Data Wrangling: PyCharm
 - Data Wrangling and Database Management: DB Browser for SQLite3 and Elephant DB for PostgreSQL
-- Data Visualization: Power BI and Tableau
+- Data Visualization: Power BI, MS PowerPoint and Tableau
 
 ### Key Insights <a class="anchor" id="sec_1.4"></a>
 This project extract job description data of three popular job titles -- Data Analyst, Data Engineer and Data Scientist, in recent couple of months from SEEK website. The job locations include eight major cities in Australia – Sydney, Melbourne, Perth, Brisbane, Gold Coast, Adelaide, ACT and Hobart. Among them, there are 2995 job advertisements for Data Analyst, 1426 job advertisements for Data Engineer, and 729 job advertisements for Data Scientist. From the analyzed results, the main conclusions can be summarized as follows: 
