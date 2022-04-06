@@ -14,7 +14,7 @@ This project is to extract, clean, explore and analyze job description data of t
 - Data Visualization: Power BI and Tableau
 
 ### Key Insights <a class="anchor" id="sec_1.4"></a>
-This project extract job description data of three popular job titles -- Data Analyst, Data Engineer and Data Scientist, in recent couple of months from SEEK website. The job locations include eight major cities in Australia – Sydney, Melbourne, Perth, Brisbane, Gold Coast, Adelaide, ACT and Hobart. Among them, there are 2224 job advertisements for Data Analyst, 1180 job advertisements for Data Engineer, and 529 job advertisements for Data Scientist. From the analyzed results, the main conclusions can be summarized as follows: 
+This project extract job description data of three popular job titles -- Data Analyst, Data Engineer and Data Scientist, in recent couple of months from SEEK website. The job locations include eight major cities in Australia – Sydney, Melbourne, Perth, Brisbane, Gold Coast, Adelaide, ACT and Hobart. Among them, there are 2995 job advertisements for Data Analyst, 1426 job advertisements for Data Engineer, and 729 job advertisements for Data Scientist. From the analyzed results, the main conclusions can be summarized as follows: 
 #### Top hottest required skills for Data Analyst: `SQL, Excel, Power BI, Tableau, Python, Data Visualization, Reporting and Communication Skills`
 #### Top hottest required skills for Data Engineer:`Cloud, SQL, AWS, Python, Azure, Data Pipeline, ETL/ELT, Communication Skills`
 #### Top hottest required skills for Data Scientist: `Python, Communication Skills, Machine Learning, Data Science, Statistics, Research, Computer Science, SQL`
